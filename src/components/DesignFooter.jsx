@@ -2,7 +2,7 @@ export default function Designfooter() {
   return (
     <div className="designfooter">
       <div className="left-design">
-        <img src="/pana.png" alt="" />
+        <img src="pana.png" alt="" />
       </div>
       <div className="right-design">
         <h1>How to design your site footer like we did</h1>
