@@ -8,7 +8,7 @@ export default function Hero(){
                   <button>Register</button>
             </div>
             <div className="right-hero">
-                <img src="/Illustration.png" alt="" />
+                <img src="Illustration.png" alt="" />
             </div>
             <div className="bottom-hero">
                 <img src="/Dot.png" alt="" />
