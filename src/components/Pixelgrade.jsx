@@ -3,7 +3,7 @@ export default function Pixelgrade(){
     return (
       <div className="pixelgrade">
         <div className="left-pixel">
-          <img src="/pixel.png" alt="" />
+          <img src="pixel.png" alt="" />
         </div>
         <div className="right-pixel">
           <h1>
