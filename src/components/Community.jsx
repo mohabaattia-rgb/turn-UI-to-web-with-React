@@ -24,21 +24,21 @@ export default function Communication(){
             description={
               "Our membership management software provides full automation of membership renewals and payments"
             }
-            image="/icon1.png"
+            image="icon1.png"
           />
           <Card
             title={"National Associations"}
             description={
               "Our membership management software provides full automation of membership renewals and payments"
             }
-            image="/icon2.png"
+            image="icon2.png"
           />
           <Card
             title={"Clubs And Groups"}
             description={
               "Our membership management software provides full automation of membership renewals and payments"
             }
-            image="/Icon3.png"
+            image="Icon3.png"
           />
         </div>
       </div>
