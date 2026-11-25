@@ -3,17 +3,17 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-brand">
         <div className="footer-logo">
-          <img src="/Icon@2x.png" alt="" />
+          <img src="Icon@2x.png" alt="" />
           <h1>Nexcent</h1>
         </div>
         <p>Copyright © 2020 Nexcent ltd.</p>
         <p>All rights reserved</p>
         
         <div className="socials">
-          <img src="/instagram.png" alt="" />
-          <img src="/dribbble.png" alt="" />
-          <img src="/twitter.png" alt="" />
-          <img src="/youtube.png" alt="" />
+          <img src="instagram.png" alt="" />
+          <img src="dribbble.png" alt="" />
+          <img src="twitter.png" alt="" />
+          <img src="youtube.png" alt="" />
         </div>
       </div>
 
@@ -39,7 +39,7 @@ export default function Footer() {
         <h4>Stay up to date</h4>
         <div className="email-box">
           <input type="email" placeholder="Your email address" />
-          <img src="/send.png" alt="" />
+          <img src="send.png" alt="" />
         </div>
       </div>
     </footer>
