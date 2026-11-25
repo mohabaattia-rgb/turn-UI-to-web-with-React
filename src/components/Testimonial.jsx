@@ -2,7 +2,7 @@ export default function Testimonial(){
     return (
       <div className="test">
         <div className="left-test">
-          <img src="/0.png" alt="" />
+          <img src="0.png" alt="" />
         </div>
         <div className="right-test">
           <p>
@@ -41,7 +41,7 @@ export default function Testimonial(){
             </li>
           </ul>
           <h4>
-            Meet all customers <img src="/Right.png" alt="" />
+            Meet all customers <img src="Right.png" alt="" />
           </h4>
           </div>
         </div>
