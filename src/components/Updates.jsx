@@ -24,15 +24,15 @@ export default function Updates() {
 
       <div className="posts">
         <Post
-          image="/a.png"
+          image="a.png"
           title="Creating Streamlined Safeguarding Processes with OneRen"
         />
         <Post
-          image="/b.png"
+          image="b.png"
           title="What are your safeguarding responsibilities and how can you manage them?"
         />
         <Post
-          image="/c.png"
+          image="c.png"
           title="Revamping the Membership Model with Triathlon Australia"
         />
       </div>
