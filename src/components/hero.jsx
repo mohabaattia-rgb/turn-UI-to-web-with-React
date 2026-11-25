@@ -11,7 +11,7 @@ export default function Hero(){
                 <img src="Illustration.png" alt="" />
             </div>
             <div className="bottom-hero">
-                <img src="/Dot.png" alt="" />
+                <img src="Dot.png" alt="" />
             </div>
         </div>
     )
